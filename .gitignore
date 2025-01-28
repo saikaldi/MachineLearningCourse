@@ -1,0 +1,15 @@
+# Virtual environments
+venv/
+.env
+
+# Bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.csv  # (if you want to ignore CSV files)
